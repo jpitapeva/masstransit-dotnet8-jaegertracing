@@ -1,1 +1,5 @@
-# masstransit-dotnet8-jaegertracing
+Exemplo de mensageria usando as tecnologias 
+
+- Dotnet8
+- RabbitMQ
+- Jaeger

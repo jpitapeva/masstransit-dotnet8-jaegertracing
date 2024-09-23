@@ -1,5 +1,7 @@
-Exemplo de mensageria usando as tecnologias 
+# sample-masstransit
 
-- Dotnet8
-- RabbitMQ
-- Jaeger
+- .NET 8.0
+- Swashbuckle Swagger
+- Serilog
+- MassTransit
+
